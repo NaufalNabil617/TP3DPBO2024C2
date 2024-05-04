@@ -17,4 +17,8 @@ Lalu pada tiap kelas terdapat CRUD juga metode search dan sort
 3. Halaman Studio: Halaman ini akan menampilkan studio yang ada
 
 # Dokumentasi Program
+https://github.com/NaufalNabil617/TP3DPBO2024C2/assets/147363037/727f01cb-6f82-4207-abf8-5a26b21748a7
+
+
+
 
